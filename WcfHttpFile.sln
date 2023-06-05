@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfHttpFile", "WcfHttpFile.csproj", "{273BA1BB-63C5-4DF1-AAE2-50CCFC97117A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{273BA1BB-63C5-4DF1-AAE2-50CCFC97117A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273BA1BB-63C5-4DF1-AAE2-50CCFC97117A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273BA1BB-63C5-4DF1-AAE2-50CCFC97117A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273BA1BB-63C5-4DF1-AAE2-50CCFC97117A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B749079-300B-4D5A-AC85-DF68A9E948BA}
+	EndGlobalSection
+EndGlobal
